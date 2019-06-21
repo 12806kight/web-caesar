@@ -13,7 +13,7 @@ form = """
     <head>
         <style>
             form {{
-                background-color: #eee;
+                background-color: white;
                 padding: 20px;
                 margin: 0 auto;
                 width: 540px;
